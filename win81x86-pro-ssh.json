@@ -161,7 +161,7 @@
   "variables": {
     "vm_name": "win81x86-pro",
     "vm_suffix": "-ssh",
-    "cm": "chef",
+    "cm": "nocm",
     "cm_version": "",
     "cpus": "2",
     "memory": "2048",

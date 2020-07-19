@@ -164,7 +164,7 @@
   "variables": {
     "vm_name": "win2008r2-datacenter",
     "vm_suffix": "-ssh",
-    "cm": "chef",
+    "cm": "nocm",
     "cm_version": "",
     "cpus": "2",
     "memory": "2048",

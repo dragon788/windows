@@ -173,7 +173,7 @@
   "variables": {
     "vm_name": "win81x64-enterprise",
     "vm_suffix": "-cygwin",
-    "cm": "chef",
+    "cm": "nocm",
     "cm_version": "",
     "cpus": "2",
     "memory": "2048",

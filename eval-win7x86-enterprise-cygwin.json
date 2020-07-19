@@ -176,7 +176,7 @@
   "variables": {
     "vm_name": "eval-win7x86-enterprise",
     "vm_suffix": "-cygwin",
-    "cm": "chef",
+    "cm": "nocm",
     "cm_version": "",
     "cpus": "2",
     "memory": "2048",

@@ -181,7 +181,7 @@
   "variables": {
     "vm_name": "eval-win2016-standard",
     "vm_suffix": "-ssh",
-    "cm": "chef",
+    "cm": "nocm",
     "cm_version": "",
     "cpus": "2",
     "memory": "2048",
